@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.io.FileWriter;
 
 
-public class Testing{
+public class Main{
 	public static void main(String[] args){
 		
             String csvFile = args[0];
