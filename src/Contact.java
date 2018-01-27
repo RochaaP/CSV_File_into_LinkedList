@@ -13,7 +13,7 @@ public class Contact{
 		this.lastName = lastName;
 		this.phoneNumber = phoneNumber;
 		this.email = email;
-		this.company= company;
+		this.company = company;
 	}
 
         public String getID(){
